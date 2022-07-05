@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter as Router } from "react-router-dom";
 import ReactDOM from "react-dom";
 //component file
-import TodoContainer from "./components/TodoContainer";
+import TodoContainer from "./functionBased/components/TodoContainer";
 import "./App.css";
 
 ReactDOM.render(
